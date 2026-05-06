@@ -1,71 +1,45 @@
-# Hi, I'm Muhammad Subhan 👋
+# Hi there, I'm Muhammad Subhan 👋
 
-**Co-founder @ Claimlyt** • Lead SDE @GiantEyeTech • Full-Stack Systems Engineer
+### Software Developer • Tech Architect
 
-Building scalable SaaS products, automation systems, and production-grade platforms.
+**Building scalable SaaS, production MVPs, and automated systems.**
 
-I specialize in designing and shipping high-performance software using modern full-stack technologies, with a strong focus on scalable architecture, automation, and long-term reliability.
+I am a software developer and tech architect focused on building the technical foundations behind modern startups and businesses. Most of the systems I work on are early-stage products and production MVPs, where speed, reliability, and scalability matter from day one. I enjoy designing software that stays maintainable under growth, automating repetitive workflows, and turning operational problems into clean systems.
 
-Currently:
+---
 
-* Building **Claimlyt** — AI-powered insurance claims automation
-* Leading engineering for a marketplace platform targeting the Irish market
-* Developing production-ready SaaS systems, internal tools, and automation infrastructure
+### Core Expertise
 
-## Tech Stack
+* Full-Stack Product Development
+* Backend Architecture & APIs
+* Production MVP Engineering
+* Automation & Internal Tooling
+* Database Design & Infrastructure
+* Automated QA & Reliability Systems
 
-### Frontend
+---
 
-Svelte • SvelteKit • Next.js • React • Tailwind CSS
+### Selected Work
 
-### Backend
+* **Online IE** — Multi-vertical marketplace infrastructure, vendor systems, APIs, and platform architecture for the Irish market.
+* **Overdrive Viral** — Influencer automation systems, operational tooling, queue processing, and analytics infrastructure.
+* **TapBak** — Digital loyalty platform replacing physical loyalty cards with Apple Wallet and Google Wallet.
+* **Claimlyt** — AI-powered healthcare claims recovery workflows and automation systems.
+* **OSO / IrisMed** — Healthcare management systems including insurance verification, payments, and internal operational tooling.
+* Multiple SaaS products, internal business systems, and production MVPs across healthcare, marketplaces, and automation.
 
-Django • Node.js • Express.js • PostgreSQL • Supabase
+---
 
-### Automation & Infrastructure
+### Technologies
 
-PyTest • Selenium • Docker • n8n • Edge Functions • CI/CD
+**Frontend:** Svelte / SvelteKit, Next.js, React, Tailwind CSS
+**Backend:** Django, Node.js, Express.js, PostgreSQL
+**Automation & Infra:** Docker, Selenium, PyTest, n8n, BullMQ
 
-## Selected Projects
+---
 
-### Claimlyt
+I care about building software that works reliably in production, scales cleanly, and solves real operational problems. Whether it’s a production MVP, automation workflow, marketplace system, or AI-powered tool, I focus on delivering clean and maintainable systems built for long-term growth.
 
-AI-powered insurance claims and appeals automation platform.
-
-### Online IE
-
-Marketplace platform engineered for the Irish market with scalable backend systems and modern frontend architecture.
-
-### Overdrive Viral
-
-Built internal systems and automation tooling for influencer and campaign management.
-
-### Tapbak Loyalty
-
-Digital loyalty and retention platform focused on customer engagement and business growth.
-
-### Limitter
-
-Distraction-blocking productivity tool built for professional focus and workflow optimization.
-
-## What I Focus On
-
-* Scalable SaaS architecture
-* Backend systems engineering
-* Automation-first workflows
-* Production reliability
-* Full-stack product development
-
-I care about building software that remains reliable under scale, traffic, and operational pressure.
-
-## Connect
-
-* Email: **[msubhanmalik20@gmail.com](mailto:msubhanmalik20@gmail.com)**
-* LinkedIn: **linkedin.com/in/msubhanmalik**
-
-Open to:
-
-* SaaS development
-* System architecture consulting
-* MVP engineering
-* AI-powered product development
+* **Email:** [msubhanmalik20@gmail.com](mailto:msubhanmalik20@gmail.com)
+* **LinkedIn:** [linkedin.com/in/msubhanmalik/](https://www.linkedin.com/in/msubhanmalik/)
+* **Available for:** SaaS Development, Architectural Consulting, and MVP Builds.
