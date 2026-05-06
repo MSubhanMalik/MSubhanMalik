@@ -1,35 +1,71 @@
-Hi there, I'm Muhammad Subhan 👋
+# Hi, I'm Muhammad Subhan 👋
 
-### Software Developer | Svelte • Django • Next.js
+**Co-founder @ Claimlyt** • Lead SDE @GiantEyeTech • Full-Stack Systems Engineer
 
-**Building Scalable SaaS, Architectural Foundations & Automated Systems**
+Building scalable SaaS products, automation systems, and production-grade platforms.
 
-I am a software developer who builds the structural foundations for modern businesses and startups. I specialize in a high-performance stack, using **Svelte** and **SvelteKit** for fast user interfaces and **Django** for secure, reliable backends. From designing the complex systems behind the **Online IE** e-commerce platform to building the influencer management tools for **Overdrive Viral**, I focus on creating software that is easy to scale and built to last.
+I specialize in designing and shipping high-performance software using modern full-stack technologies, with a strong focus on scalable architecture, automation, and long-term reliability.
 
+Currently:
 
+* Building **Claimlyt** — AI-powered insurance claims automation
+* Leading engineering for a marketplace platform targeting the Irish market
+* Developing production-ready SaaS systems, internal tools, and automation infrastructure
 
-### Core Expertise
+## Tech Stack
 
-* **Frontend:** Svelte / SvelteKit, Next.js, React, Tailwind CSS
-* **Backend:** Django (Primary), Node.js, Express.js, Supabase
-* **Automation:** **Automated QA Testing** (PyTest, Selenium, Botasaurus), n8n, Edge Functions
-* **Infrastructure:** Database Architecture, Docker, PostgreSQL, Cloud Deployment
+### Frontend
 
+Svelte • SvelteKit • Next.js • React • Tailwind CSS
 
-### What I Build
+### Backend
 
-* **Production-Ready SaaS** — Architecting robust backends with Django and sleek, reactive frontends with Svelte.
-* **Overdrive Viral (Influencer Management)** — Engineered a comprehensive system for talent management, featuring custom **automated testing suites** to ensure 100% reliability for high-traffic campaigns.
-* **Enterprise E-Commerce** — Currently developing **Online IE**, a massive, customized e-commerce ecosystem specifically tailored for the Irish market.
-* **Business Loyalty & Management** — Developed **Tapbak Loyalty**, a digital retention ecosystem for B2B engagement.
-* **Productivity Tools** — Built **Limitter**, a performant distraction blocker designed for professional focus.
-* **Automated Foundations** — I prioritize reliability by writing automated tests for every project, ensuring your product scales without breaking under pressure.
+Django • Node.js • Express.js • PostgreSQL • Supabase
 
+### Automation & Infrastructure
 
-### Let's Build Something Resilient
+PyTest • Selenium • Docker • n8n • Edge Functions • CI/CD
 
-I prioritize making sure everything I build actually works under pressure by including automated testing as a standard part of my process. Whether it is a digital loyalty system or a localized market platform, I deliver clean, automated solutions that help businesses grow without technical headaches.
+## Selected Projects
 
-* **Email:** msubhanmalik20@gmail.com
-* **LinkedIn:** [linkedin.com/in/msubhanmalik/](https://www.linkedin.com/in/msubhanmalik/)
-* **Available for:** SaaS Development, Architectural Consulting, and MVP Builds.
+### Claimlyt
+
+AI-powered insurance claims and appeals automation platform.
+
+### Online IE
+
+Marketplace platform engineered for the Irish market with scalable backend systems and modern frontend architecture.
+
+### Overdrive Viral
+
+Built internal systems and automation tooling for influencer and campaign management.
+
+### Tapbak Loyalty
+
+Digital loyalty and retention platform focused on customer engagement and business growth.
+
+### Limitter
+
+Distraction-blocking productivity tool built for professional focus and workflow optimization.
+
+## What I Focus On
+
+* Scalable SaaS architecture
+* Backend systems engineering
+* Automation-first workflows
+* Production reliability
+* Full-stack product development
+
+I care about building software that remains reliable under scale, traffic, and operational pressure.
+
+## Connect
+
+* Email: **[msubhanmalik20@gmail.com](mailto:msubhanmalik20@gmail.com)**
+* LinkedIn: **linkedin.com/in/msubhanmalik**
+
+Open to:
+
+* SaaS development
+* System architecture consulting
+* MVP engineering
+* AI-powered product development
